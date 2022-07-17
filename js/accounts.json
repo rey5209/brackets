@@ -19,14 +19,7 @@
     "password":"debug",
     "first_name":"CFO_debug",
     "last_name":"CFO Today" 
-  }, 
-  {
-    "id":69,
-    "username":"international",
-    "password":"debug",
-    "first_name":"CFO_Debug",
-    "last_name":"International" 
-  }, 
+  },
   {
     "id":9453,
     "username":"juan",
@@ -36,10 +29,17 @@
   },
   {
     "id":9453,
-    "username":"international",
+    "username":"cfo_prod",
+    "password":"inc",
+    "first_name":"CFO Production Officer",
+    "last_name":"Segment" 
+  },
+  {
+    "id":9453,
+    "username":"CFO_Macleem",
     "password":"123",
-    "first_name":"CFO_International",
-    "last_name":"S2" 
+    "first_name":"CFO_Macleem",
+    "last_name":"Lloyd" 
   },
   {
     "id":9453,

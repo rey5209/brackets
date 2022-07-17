@@ -1,12 +1,37 @@
 [
   { 
     "day":"Monday",
-    "json_name":"views.json",
-    "link":"index.html"
+    "json_name":"monday.json",
+    "link":"https://admin.rey5209.repl.co/"
   },
   { 
     "day":"Tuesday",
-    "json_name":"views2.json",
-    "link":"https://admin.harvy99.repl.co/"
+    "json_name":"tuesday.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+  { 
+    "day":"Wednesday",
+    "json_name":"weds.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+  { 
+    "day":"Thursday ( International )",
+    "json_name":"thurs.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+  { 
+    "day":"Friday",
+    "json_name":"friday.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+  { 
+    "day":"Saturday ( UPDATES )",
+    "json_name":"sat.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+  { 
+    "day":"Sunday ( UPDATES )",
+    "json_name":"sun.json",
+    "link":"https://admin.rey5209.repl.co/"
   }
 ]
