@@ -1,0 +1,12 @@
+[
+  { 
+    "day":"Monday",
+    "json_name":"views.json",
+    "link":"index.html"
+  },
+  { 
+    "day":"Tuesday",
+    "json_name":"views2.json",
+    "link":"https://admin.harvy99.repl.co/"
+  }
+]

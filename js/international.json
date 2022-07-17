@@ -1,0 +1,40 @@
+{
+  "jsonData" : [
+    {
+    "tittle" : "International | Season 2 | July 7- 16, 2022",
+    "subTittle" : "Youtube",
+    "image" : "INC-Central-Temple-2.jpg",
+    "link" : "https://www.facebook.com/",
+  "allowEdit": false,
+    "redirectPage": false,
+    "page" : "",
+    "redirect_text":"Sending view from facebook",
+    "different_link_per_data" : true,
+    "different_img_per_data" : true,
+    "viewData" : [
+      {"lokal":"Hawaii Pacific",                        "views":  14},
+      {"lokal":"Hawaii Pacific - FB",                        "views":  0},
+      {"lokal":"Spain",            "views":  71},
+      {"lokal":"Spain - FB",            "views":  17},
+      {"lokal":"Sabah",            "views":  54},
+      {"lokal":"Sabah - FB",            "views":  16},
+      {"lokal":"Macau",              "views":  129},
+      {"lokal":"Thailand",              "views":  0},
+      {"lokal":"Thailand - FB",              "views":  0},
+      {"lokal":"Macau - FB",              "views":  29},
+      {"lokal":"Hong Kong",                       "views":  255},
+      {"lokal":"Hong Kong - FB",                       "views":  88},
+      {"lokal":"Italy North",                       "views":  17},
+      {"lokal":"Italy North - FB",                       "views":  0},
+      {"lokal":"Northern Europe",                       "views":  128},
+      {"lokal":"Northern Europe - FB",                       "views":  43},
+      {"lokal":"Mountain States",                       "views":  27},
+      {"lokal":"Mountain States - FB",                       "views":  0} 
+        ] 
+      }
+      
+
+  ]
+}
+
+ 

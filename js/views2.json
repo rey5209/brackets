@@ -1,0 +1,27 @@
+{
+  "jsonData" : [
+    {
+    "tittle" : "GALIT SI JIOR | SA PINK 2022",
+    "subTittle" : "Youtube",
+    "image" : "INC-Central-Temple-2.jpg",
+    "link" : "https://www.facebook.com/",
+  "allowEdit": false,
+    "redirectPage": false,
+    "page" : "",
+    "redirect_text":"Sending view from facebook",
+    "different_link_per_data" : true,
+    "different_img_per_data" : true,
+    "viewData" : [
+      {"lokal":"Bra",                        "views":  0},
+      {"lokal":"Tagusan Del Sur",            "views":  0},
+      {"lokal":"Tigasan Del Sur",              "views":  0},
+      {"lokal":"Drugs",                       "views":  0},
+      {"lokal":"Vodka",                       "views":  0} 
+        ] 
+      }
+      
+
+  ]
+}
+
+ 

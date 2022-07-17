@@ -1,0 +1,52 @@
+[
+  {
+    "id":69,
+    "username":"JioR",
+    "password":"alak",
+    "first_name":"Jior",
+    "last_name":"Supremo" 
+  },
+  {
+    "id":69,
+    "username":"lingayen",
+    "password":"inc",
+    "first_name":"Distrito ng Lingayen Pangasinan",
+    "last_name":"INCinema" 
+  },
+  {
+    "id":69,
+    "username":"today",
+    "password":"debug",
+    "first_name":"CFO_debug",
+    "last_name":"CFO Today" 
+  }, 
+  {
+    "id":69,
+    "username":"international",
+    "password":"debug",
+    "first_name":"CFO_Debug",
+    "last_name":"International" 
+  }, 
+  {
+    "id":9453,
+    "username":"juan",
+    "password":"123",
+    "first_name":"Juan",
+    "last_name":"Tamad" 
+  },
+  {
+    "id":9453,
+    "username":"international",
+    "password":"123",
+    "first_name":"CFO_International",
+    "last_name":"S2" 
+  },
+  {
+    "id":9453,
+    "username":"re",
+    "password":"re",
+    "first_name":"CFO_REY",
+    "last_name":"Distrito ng Lingayen Pangasinan" 
+
+  }
+]
