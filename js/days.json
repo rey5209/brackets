@@ -33,5 +33,10 @@
     "day":"Sunday ( UPDATES )",
     "json_name":"sun.json",
     "link":"https://admin.rey5209.repl.co/"
+  },
+  { 
+    "day":"1 Week Past ( Backup )",
+    "json_name":"old.json",
+    "link":"https://admin.rey5209.repl.co/"
   }
 ]
