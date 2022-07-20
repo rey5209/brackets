@@ -50,6 +50,20 @@
   },
   {
     "id":9453,
+    "username":"Today_Roma",
+    "password":"123",
+    "first_name":"CFO_Today Roma",
+    "last_name":"dS. de Torres" 
+  },
+  {
+    "id":9453,
+    "username":"Today_Joan",
+    "password":"123",
+    "first_name":"CFO_Today Joan",
+    "last_name":"Almojera" 
+  },    
+  {
+    "id":9453,
     "username":"re",
     "password":"re",
     "first_name":"CFO_REY",

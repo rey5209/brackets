@@ -34,8 +34,43 @@
     "json_name":"sun.json",
     "link":"https://admin.rey5209.repl.co/"
   },
+    { 
+    "day":"Monday_BAK",
+    "json_name":"1.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+    { 
+    "day":"Tuesday_BAK",
+    "json_name":"2.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+    { 
+    "day":"Wednesday_BAK",
+    "json_name":"3.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+    { 
+    "day":"Thursday_BAK",
+    "json_name":"4.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+    { 
+    "day":"Friday_BAK",
+    "json_name":"5.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+    { 
+    "day":"Saturday_BAK",
+    "json_name":"6.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
+    { 
+    "day":"Sunday_BAK",
+    "json_name":"7.json",
+    "link":"https://admin.rey5209.repl.co/"
+  },
   { 
-    "day":"1 Week Past ( Backup )",
+    "day":"1 Week Views ( All District )",
     "json_name":"old.json",
     "link":"https://admin.rey5209.repl.co/"
   }
